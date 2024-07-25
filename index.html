@@ -15,22 +15,27 @@
             background-color: #000; /* Optional: change background color if needed */
         }
         #widget-container {
-            width: 3000px; /* Example width */
+            width: 3000px; /* Original width */
             height: 265px;
             overflow: hidden;
             display: flex;
             justify-content: center;
             align-items: center;
             border: 2px solid red; /* Add a border to see the container */
+        }
+        #widget-content {
             transform: scale(3);
             transform-origin: left top;
-            margin-left: -2000px; /* Adjust this value to bring the widget into view */
+            width: 100%;
+            height: 100%;
         }
     </style>
 </head>
 <body>
     <div id="widget-container">
-        <script src="https://wxblox.aerisapi.com/free/js/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImZ1bGwtd2lkZSIsImxvYyI6InRhdHVhbnVpLG5ldyB6ZWFsYW5kIiwibWV0cmljIjp0cnVlLCJ0aGVtZSI6ImRhcmsiLCJjb2xvcnMiOnsiYmFzZSI6e30sImFsdCI6e30sImFjY2VudCI6e319LCJpYXQiOjE3MjE4NzMzMDF9.WqX1Nk4NYDxZJ0tMZlXZA9Qtr-s_mejviJxc3XTH8_Y"></script>
+        <div id="widget-content">
+            <script src="https://wxblox.aerisapi.com/free/js/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImZ1bGwtd2lkZSIsImxvYyI6InRhdHVhbnVpLG5ldyB6ZWFsYW5kIiwibWV0cmljIjp0cnVlLCJ0aGVtZSI6ImRhcmsiLCJjb2xvcnMiOnsiYmFzZSI6e30sImFsdCI6e30sImFjY2VudCI6e319LCJpYXQiOjE3MjE4NzMzMDF9.WqX1Nk4NYDxZJ0tMZlXZA9Qtr-s_mejviJxc3XTH8_Y"></script>
+        </div>
     </div>
 </body>
 </html>
