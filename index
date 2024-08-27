@@ -6,6 +6,6 @@
     <title>Weather Widget</title>
 </head>
 <body>
-    <script src="https://wxblox.aerisapi.com/free/js/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImZ1bGwtd2lkZSIsImxvYyI6IndhaXBhdG0xIiwibWV0cmljIjp0cnVlLCJ0aGVtZSI6ImRhcmsiLCJjb2xvcnMiOnsiYmFzZSI6e30sImFsdCI6e30sImFjY2VudCI6e319LCJpYXQiOjE3MjE3NzY5NDJ9.P4p5QYJoR6vfZdNo2AHLYqpAXlUbE3vRkRuH2yyDPkU"></script>
+    <script src="https://wxblox.aerisapi.com/free/js/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImZ1bGwtd2lkZSIsImxvYyI6InRhdXBvLCBuZXcgemVhbGFuZCIsIm1ldHJpYyI6dHJ1ZSwidGhlbWUiOiJkYXJrIiwiY29sb3JzIjp7ImJhc2UiOnt9LCJhbHQiOnt9LCJhY2NlbnQiOnt9fSwiaWF0IjoxNzI0Nzk1NDc5fQ.qh1kVSlmdWOt3FWBsOdfRifAA5HtydXz06tSyZE2uFo"></script>
 </body>
 </html>
